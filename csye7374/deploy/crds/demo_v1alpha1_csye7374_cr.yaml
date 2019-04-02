@@ -1,0 +1,7 @@
+apiVersion: demo.csye7374-spring2019-kandarp.me/v1alpha1
+kind: Csye7374
+metadata:
+  name: example-csye7374
+spec:
+  # Add fields here
+  size: 3
